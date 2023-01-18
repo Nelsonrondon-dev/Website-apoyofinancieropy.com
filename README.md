@@ -86,7 +86,7 @@ Website responsive  developed for the company Apoyofinancieropy
 
 ## Screenshots Project
 
-![apoyofinancieropy.com](https://nelson-dev.tech/img/landing/Website-apoyofinancieropy.com.png)
+![apoyofinancieropy.com](https://nelson-dev.tech/img/landing/Wbsite-apoyofinancieropy.com.png)
 
 
 
